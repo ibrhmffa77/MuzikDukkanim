@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.shop__title{
+    color: red;
+    font-size: 25px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+.shop__title__nav__ul{
+    padding: 20px 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.shop__title__nav__ul>li>a{
+    color: rgb(152, 65, 232);
+}
+.shop__title__nav__ul>li>a:hover{
+    color: red;
+}
+.sayfa{
+    text-align: center;
+}
+.sayfa__h2{
+    color: rgb(103, 18, 103);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.sayfa__p1{
+font-family: 'Times New Roman', Times, serif; margin-top: 15px;
+}
+.sayfa__p2{
+    color: orange;
+font-family: 'Times New Roman', Times, serif;    
+margin-top: 15px;
+}
+.sayfa__li{
+    margin-top: 15px;
+}
